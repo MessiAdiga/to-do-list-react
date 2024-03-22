@@ -1,7 +1,7 @@
 {
   "homepage": "https://MessiAdiga.github.io/to-do-list-react",
   "name": "my-react-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
